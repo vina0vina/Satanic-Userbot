@@ -1,11 +1,23 @@
-step: 
-- 1. sudo apt update && sudo apt upgrade -y
-- 2. sudo apt install python3.10-venv ffmpeg -y
-- 3. cd LeXcZUserBot
-- 4. screen -S LeXcZUserBot
-- 5. python3 -m venv LeXcZUserBot
-- 6. source LeXcZUserBot/bin/activate
-- 7. pip install --no-cache-dir -r requirements.txt
-- 8. cp sample.env .env
-- 9. nano .env
-- 10. bash start
+git clone https://github.com/vina0vina/ubotdidin
+
+Nama:vina0vina
+
+sudo apt update && sudo apt upgrade -y
+
+sudo apt install python3.10-venv ffmpeg -y
+
+cd ubotdidin
+
+screen -S ubotdidin
+
+python3 -m venv didin
+
+source didin/bin/activate
+
+pip install --no-cache-dir -r requirements.txt
+
+cp sample.env .env
+
+nano .env
+
+bash start
