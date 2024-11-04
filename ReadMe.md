@@ -1,4 +1,4 @@
-git clone https://github.com/vina0vina/ubotdidin
+git clone https://github.com/vina0vina/Satanic-Userbot.git
 
 Nama:vina0vina
 
