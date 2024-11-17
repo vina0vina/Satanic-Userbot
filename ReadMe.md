@@ -6,13 +6,13 @@ sudo apt update && sudo apt upgrade -y
 
 sudo apt install python3.10-venv ffmpeg -y
 
-cd ubotdidin
+cd Satanic
 
-screen -S ubotdidin
+screen -S Satanic
 
-python3 -m venv didin
+python3 -m venv vina
 
-source didin/bin/activate
+source vina/bin/activate
 
 pip install --no-cache-dir -r requirements.txt
 
